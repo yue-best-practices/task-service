@@ -38,7 +38,7 @@ Return:
   "message": "OK",
   "data": {
     "taskId": "ad64f74d-bc68-4af5-8c4f-c63520708f91",
-    "result": true //任务添加结果
+    "result": true
   }
 }
 ```
@@ -92,7 +92,7 @@ Return:
 	"code":200,
 	"message":"OK",
 	"data":{
-		"result":"2018-07-27T08:29:35.000Z" //如果任务不存在或已经执行过不再执行，这个字段为null
+		"result":"2018-07-27T08:29:35.000Z"
 	}
 }
 ```
